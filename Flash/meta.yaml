@@ -1,6 +1,6 @@
 name: Flash
 version: "1.0"
 description: Set and retrieve flash messages
-url: '[]'
+url: 'https://github.com/travisulrich/statamic-flash-messages'
 developer: Travis Ulrich
 developer_url: travisntine.com
